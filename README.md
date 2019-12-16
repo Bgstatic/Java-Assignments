@@ -19,5 +19,5 @@
         4. Replace substring
         5. Sort characters
         6. Hash code of a string \
-        Please enter your menu choice.
+       Please enter your menu choice.
     
