@@ -13,7 +13,6 @@
   * Assignment-4
     - A small String Analyzer Program with a menu. The menu is like: 
         Welcome to our String Analyzer Program.
-        Please enter your menu choice.
         1. Count number of chars
         2. Print the words in a sentence
         3. Delete substring
