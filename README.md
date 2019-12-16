@@ -12,13 +12,12 @@
     - A program to print the letters W, X, Y and Z using the character of ‘*’ with the given size. The user will decide the given size.
   * Assignment-4
     - A small String Analyzer Program with a menu. The menu is like\
-       Welcome to our String Analyzer Program.
-       1. Count number of chars
-       2. Print the words in a sentence
-       3. Delete substring
-       4. Replace substring
-       5. Sort characters
-       6. Hash code of a string 
-  * Assignment-5
-    -
+        Welcome to our String Analyzer Program.
+        1. Count number of chars
+        2. Print the words in a sentence
+        3. Delete substring
+        4. Replace substring
+        5. Sort characters
+        6. Hash code of a string \
+        Please enter your menu choice.
     
