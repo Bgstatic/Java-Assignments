@@ -1,0 +1,15 @@
+************************************************
+Department [departmentId=1, departmentName=Accounting]
+************************************************
+	Manager [id=123, Mehmet Ari      # of Employee: 7]	1. Developer	Person info [id=111, firstName=Ayse, lastName=Caliskan, gender=Woman]	Employee info[salary=10000.0, hireDate=22/5/2015]			RegularEmployee [performanceScore=25.0, bonus=0.0]	[Project [projectName=AutoCredit, startDate=1/5/2018, state=false]	2. SalesEmployee	 [id=123, firstName=Mehmet, lastName=Ari, gender=Man]	Employee info[salary=5000.0, hireDate=10/10/2017]	3. RegularEmployee [id=145, firstName=Ismail, lastName=Celik, gender=Man]	Employee info[salary=3500.0, hireDate=15/11/2018]	Product [productName=Product1, transactionDate=1/1/2019, price=10000.0]	RegularEmployee [performanceScore=75.0, bonus=0.0]
+Department [departmentId=2, departmentName=Marketing]
+************************************************
+	Manager [id=256, Arzu Ozturk      # of Employee: 7]	1. Developer	Person info [id=123, firstName=Mehmet, lastName=Ari, gender=Man]	Employee info[salary=5000.0, hireDate=10/10/2017]			RegularEmployee [performanceScore=75.0, bonus=0.0]	[Project [projectName=ATM, startDate=1/12/2018, state=false]	2. SalesEmployee	 [id=145, firstName=Ismail, lastName=Celik, gender=Man]	Employee info[salary=3500.0, hireDate=15/11/2018]	3. RegularEmployee [id=156, firstName=Bulut, lastName=Karadag, gender=Man]	Employee info[salary=7500.0, hireDate=14/2/2015]	Product [productName=Product2, transactionDate=1/2/2019, price=1500.0]	RegularEmployee [performanceScore=50.0, bonus=0.0]
+**********************CUSTOMERS************************
+Customer [id=224 products=[Product [productName=Product1, transactionDate=1/1/2019, price=10000.0], Product [productName=Product2, transactionDate=1/2/2019, price=1500.0], Product [productName=Product5, transactionDate=11/1/2017, price=90000.0]]]
+Customer [id=267 products=[Product [productName=Product3, transactionDate=1/11/2018, price=15000.0]]]
+Customer [id=178 products=[Product [productName=Product2, transactionDate=1/2/2019, price=1500.0], Product [productName=Product3, transactionDate=1/11/2018, price=15000.0]]]
+**********************PEOPLE************************
+Person [id=111, firstName=Ayse, lastName=Caliskan, gender=Woman]
+Person [id=123, firstName=Mehmet, lastName=Ari, gender=Man]
+Person [id=145, firstName=Ismail, lastName=Celik, gender=Man]
