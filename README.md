@@ -18,8 +18,8 @@
         3. Delete substring
         4. Replace substring
         5. Sort characters
-        6. Hash code of a string /n
-        Please enter your menu choice:
+        6. Hash code of a string 
+        \nPlease enter your menu choice.
   * Assignment-5
     -
     
