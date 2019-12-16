@@ -18,6 +18,6 @@
          3. Delete substring
          4. Replace substring
          5. Sort characters
-         6. Hash code of a string\
-         Please enter your menu choice.
+         6. Hash code of a string
+         Please enter your menu choice:
     
