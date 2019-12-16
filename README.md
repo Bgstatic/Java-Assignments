@@ -39,4 +39,9 @@
       After that there are some step operations which is related to the given 2D array such as swapping 2D array's elements based on           specific rule.
   * Assignment-6 
     - Simple Course Registration Program includes OOP
+  * Assignment-7
+    - A personal and product registration program for firms, factories, employers and employees (includes OOP).
+  * Assignment-8
+    - A program that creates a smart house with interactive smart furnitures like smart light, smart camera, smart security camera, 
+      smart plug. The user can connect with smart furnitures and control them eaisly (Iot) (includes OOP and interface).
  
