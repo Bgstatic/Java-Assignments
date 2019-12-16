@@ -11,7 +11,7 @@
     - A program which takes a sequence of characters and draws the image they represent. The ‘b’s in the sequence are for printing a blank     character, ‘s’s for printing ‘*’ and ‘n’s for newline.  A digit before any of these characters shows how many times the character           should be printed, if the digit is missing, the character should be printed only once.
     - A program to print the letters W, X, Y and Z using the character of ‘*’ with the given size. The user will decide the given size.
   * Assignment-4
-    - A small String Analyzer Program with a menu. The menu is like
+    - A small String Analyzer Program with a menu. The menu is like\
        Welcome to our String Analyzer Program.
        1. Count number of chars
        2. Print the words in a sentence
