@@ -38,7 +38,7 @@
                                               -------------
       After that there are some step operations which is related to the given 2D array such as swapping 2D array's elements based on           specific rule.
   * Assignment-6 
-    - Simple Course Registration Program includes OOP
+    - Simple Course Registration Program (includes OOP).
   * Assignment-7
     - A personal and product registration program for firms, factories, employers and employees (includes OOP).
   * Assignment-8
